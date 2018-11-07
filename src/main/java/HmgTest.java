@@ -29,7 +29,7 @@ public class HmgTest {
 		
 		System.out.println("uuuuuuuuuuuuu");
 		System.out.println("uuuuuuuuuuuuu");
-		System.out.println("uuuuuuuuuuuuu");
+		System.out.println("uuuuuuuuuuuuu.......");
 
 	}
 
