@@ -16,7 +16,7 @@ public class HmgTest {
 		System.out.println("55555555555");
 		
 
-		System.out.println("zhao");
+		System.out.println("zhaokkkkkkk");
 		
 
 		System.out.println("pppppppppppp");
