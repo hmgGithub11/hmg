@@ -27,7 +27,7 @@ public class HmgTest {
 		System.out.println("uuuuuuuuuuuuu");
 		System.out.println("uuuuuuuuuuuuu");
 		System.out.println("uuuuuuuuuuuuu");
->>>>>>> branch 'master' of https://github.com/hmgGithub11/hmg.git
+
 
 	}
 
