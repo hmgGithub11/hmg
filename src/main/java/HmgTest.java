@@ -8,13 +8,13 @@ public class HmgTest {
 		
 				System.out.println("oooooooo");
 		
-		System.out.println("pppppppppppppppsssssss");
 		System.out.println("fdgerhvds");
-		System.out.println("pppppppppppppppsssssss");
-		System.out.println("pppppppppppppppssssss");
+		System.out.println("fdgerhvds");
+		System.out.println("fdgerhvds");
+		System.out.println("fdgerhvds");
 		
-		System.out.println("pppppppppppppppsssssss");
-		System.out.println("pppppppppppppppsssssss");
+		System.out.println("fdgerhvds");
+		System.out.println("fdgerhvds");
 		
 		System.out.println("巴巴爸爸巴巴巴巴爸爸");
 		System.out.println("55555555555");
