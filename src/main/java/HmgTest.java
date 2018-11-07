@@ -18,6 +18,11 @@ public class HmgTest {
 		System.out.println("pppppppppppp");
 		System.out.println("tttttttttttt");
 		System.out.println("uuuuuuuuuuuuu");
+		
+		
+		System.out.println("uuuuuuuuuuuuu");
+		System.out.println("uuuuuuuuuuuuu");
+		System.out.println("uuuuuuuuuuuuu");
 
 	}
 
